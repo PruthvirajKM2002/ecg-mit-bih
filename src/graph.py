@@ -8,7 +8,7 @@ from keras.optimizers import Adam
 def ECG_model(config):
     """ 
     implementation of the model in https://www.nature.com/articles/s41591-018-0268-3 
-    also have reference to codes at 
+    reference to code 
     https://github.com/awni/ecg/blob/master/ecg/network.py 
     and 
     https://github.com/fernandoandreotti/cinc-challenge2017/blob/master/deeplearn-approach/train_model.py
